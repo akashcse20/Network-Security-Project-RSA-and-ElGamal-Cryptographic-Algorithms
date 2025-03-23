@@ -1,4 +1,3 @@
-Here’s an enhanced and more professional version of the README:
 
 ---
 
@@ -158,5 +157,3 @@ This project provides a comprehensive demonstration of **ElGamal** and **RSA** e
 - **Security Analysis**: Conduct a detailed analysis of the security strengths of each algorithm and potential vulnerabilities.
 
 ---
-
-This **README** file now provides an elegant, professional explanation of how the project works, what the user can expect, and how to get started with the encryption algorithms.
